@@ -1,7 +1,12 @@
 # html-css-js-project-boilerplate
+*********************************************************************************
+Click on URL: https://048see.csb.app/
+*********************************************************************************
 
 # NS-Project2-Netflix-Homepage-Clone
+*********************************************************************************
 Created project 2; Netflix Homepage (Initial)
+*********************************************************************************
 <!-- Starting of the page... -->
 Div section were created & CSS property has been added to them.
 Netflix related assests has been arranged from the online sources;
